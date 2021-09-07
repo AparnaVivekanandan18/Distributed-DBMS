@@ -1,0 +1,2 @@
+CourseId int PRIMARY KEY
+CourseName varchar(30)

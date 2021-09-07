@@ -1,0 +1,2 @@
+class ReadFetchUploadGCP(object):
+    pass

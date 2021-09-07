@@ -1,0 +1,2 @@
+Student LocalLocation
+Course RemoteLocation
